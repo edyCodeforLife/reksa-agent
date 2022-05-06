@@ -1,0 +1,4 @@
+.idea/
+node_modules/
+tests/__coverage__/
+tests/**/*.jsx

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="71px" viewBox="0 0 109 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard-Empty" transform="translate(-544.000000, -650.000000)" fill="#29CB97">
+            <g id="Performa&amp;Goal" transform="translate(240.000000, 474.000000)">
+                <g id="Goal-&amp;-Duration" transform="translate(26.000000, 50.000000)">
+                    <g id="sudah">
+                        <g id="Group-2" transform="translate(15.000000, 126.000000)">
+                            <g id="Goal">
+                                <g id="Group-4" transform="translate(263.000000, 0.000000)">
+                                    <path d="M49,46 L20,46 C8.954305,46 0,37.045695 0,26 L0,12 L32.3076923,12 C39.2808838,12 45.4205628,15.5686912 49,20.9793444 L49,20 C49,8.954305 57.954305,2.02906125e-15 69,0 L109,0 L109,20 C109,31.045695 100.045695,40 89,40 L53,40 L53,71 L49,71 L49,46 Z" id="Combined-Shape" transform="translate(54.500000, 35.500000) scale(-1, 1) translate(-54.500000, -35.500000) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
